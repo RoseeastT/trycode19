@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://situs88.getprooph.org/sitemap.xml
+Sitemap : http://gacoor168.spending.jp/sitemap.xml
